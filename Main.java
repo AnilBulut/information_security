@@ -34,33 +34,6 @@ public class Main {
         log.createLog(parser.getInputFile(), parser.getOutputFile(), parser.getType(), parser.getAlgorithm(), parser.getMode(), duration);
 		
 		
-		
-		//String key = "Bar12345Bar12345"; // 128 bit key
-		//String initializationVector = "RandomInitVector"; // 16 bytes IV
-		
-		//String key2="12345678";
-		//String initializationVector2 = "RandomIn";
-		
-		//String algorithm="AES";
-		//String mode="CTR";
 
-		//File inputFile = new File(parser.getInputFile());
-		//File encryptedFile = new File("document2.encrypted");
-		//File decryptedFile = new File("document2.decrypted");
-        
-		//AbstractCryptoFactory acf=AbstractCryptoFactory.getCryptoFactory(algorithm).getCryptor(mode);
-		//long startTime = System.nanoTime();
-		//acf.encrypt(key, initializationVector, inputFile, encryptedFile);
-		//long endTime = System.nanoTime();
-		//long duration = (endTime - startTime)/1000000;  //divide by 1000000 to get milliseconds.
-		//System.out.println("enc duration: "+duration);
-		
-		
-		//startTime=System.nanoTime();
-		//acf.decrypt(key, initializationVector, encryptedFile,decryptedFile);
-		//endTime=System.nanoTime();
-		//duration=(endTime-startTime)/1000000;
-		//System.out.println("dec duration: "+duration);
-	}
 
 }
