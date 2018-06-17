@@ -1,0 +1,19 @@
+10-11-2017 16:03:01: verification success
+10-11-2017 16:03:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/neww! not changed
+10-11-2017 16:03:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/end.txt not changed
+10-11-2017 16:03:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/anotherFolder/joker.txt not changed
+10-11-2017 16:03:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/hello.txt not changed
+10-11-2017 16:04:01: verification success
+10-11-2017 16:04:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/neww! deleted
+10-11-2017 16:04:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/end.txt not changed
+10-11-2017 16:04:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/anotherFolder/joker.txt not changed
+10-11-2017 16:04:01: /home/eren/workspace/FileIntegrity/MonitoredFolder/hello.txt altered
+10-11-2017 16:05:02: verification success
+10-11-2017 16:05:02: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/neww! deleted
+10-11-2017 16:05:02: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/end.txt altered
+10-11-2017 16:05:02: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/anotherFolder/joker.txt not changed
+10-11-2017 16:05:02: /home/eren/workspace/FileIntegrity/MonitoredFolder/hello.txt altered
+10-11-2017 16:05:02: /home/eren/workspace/FileIntegrity/MonitoredFolder/abc/thisNew created
+10-11-2017 18:47:02: verification success
+10-11-2017 18:48:01: verification failed
+10-11-2017 18:49:01: verification success
